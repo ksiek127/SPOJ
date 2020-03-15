@@ -1,3 +1,5 @@
+//https://pl.spoj.com/problems/PA05_POT/
+//easy
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
