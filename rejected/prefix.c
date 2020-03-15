@@ -1,7 +1,8 @@
+//https://pl.spoj.com/problems/KNUTH_PI/
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
-
+//no idea why fails test cases, for me it works
 void print_pref(char *c){
 	if(strlen(c) == 0){ //just in case rly nasty input
 		printf("\n");
