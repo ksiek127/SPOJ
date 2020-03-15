@@ -1,6 +1,7 @@
+//https://pl.spoj.com/problems/JGGHACK/
 #include <stdio.h>
 #include <string.h>
-
+//program works but it seems like gcc can't display characters with ASCII 128-255
 void hack(char *c){
 	int size = strlen(c);
 	int current;
