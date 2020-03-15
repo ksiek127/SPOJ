@@ -1,3 +1,4 @@
+//https://pl.spoj.com/problems/HILLS2/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
