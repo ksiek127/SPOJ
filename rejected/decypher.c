@@ -1,6 +1,7 @@
+//https://pl.spoj.com/problems/JSZYFR2/
 #include <stdio.h>
 #include <stdbool.h>
-
+//issue when can decypher one word with two keys, so for some words there are several translations
 int find_key(int arr[25], int n){
 	bool is_prime[150];
 	for(int i=2; i<150; i++)
