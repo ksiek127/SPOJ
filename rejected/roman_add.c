@@ -1,3 +1,4 @@
+//https://pl.spoj.com/problems/JSUMRZYM/
 #include <stdio.h>
 #include <string.h>
 
