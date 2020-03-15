@@ -1,7 +1,7 @@
 //https://pl.spoj.com/problems/JSUMRZYM/
 #include <stdio.h>
 #include <string.h>
-
+//no idea why fails test cases, for me it works
 struct number{
 	int a;
 	char r;
