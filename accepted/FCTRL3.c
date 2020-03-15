@@ -1,3 +1,5 @@
+//https://pl.spoj.com/problems/FCTRL3/
+//easy
 #include <stdio.h>
 
 void factorial(int n){
