@@ -1,5 +1,6 @@
+//https://pl.spoj.com/problems/NWW/
 #include <stdio.h>
-
+//too slow
 long long int gcd(long long int x, long long int y){ //greatest common divisor
 	int gcd_part = 1;
 	while(x%2 == 0 && y%2 == 0){
