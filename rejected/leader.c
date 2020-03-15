@@ -1,3 +1,4 @@
+//https://pl.spoj.com/problems/LIDER/
 #include <stdio.h>
 #include <stdlib.h>
 //too slow
