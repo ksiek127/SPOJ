@@ -1,6 +1,7 @@
+//https://pl.spoj.com/problems/CWANY_LU/
 #include <stdio.h>
 #include <stdlib.h>
-
+//too slow
 int n_k(long int n, long int k){
 	if(n == 0)
 		return 0;
