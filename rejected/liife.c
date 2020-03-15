@@ -1,6 +1,7 @@
+//https://pl.spoj.com/problems/JZYCIE/
 #include <stdio.h>
 #include <stdbool.h>
-
+//no idea why fails test cases, imo works
 int count_alive(int i, int j, int arr[5][5]){ //count alive neighbors of arr[i][j]
 	int alive = 0;
 	for(int k=-1; k<=1; k++){
